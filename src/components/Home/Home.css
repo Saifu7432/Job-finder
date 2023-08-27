@@ -1,0 +1,201 @@
+.background-image {
+    background-image: url('./success-services-hero.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+  }
+  
+/* Styling for the home container */
+.home-container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 9000px;
+    background-color: transparent;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for the search form */
+  .search-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+    /*background-color: white;
+    border: 1px solid #d1d1d1;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);*/
+  }
+  
+  /* Styling for the info section */
+  .info-section {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #d1d1d1;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for the footer */
+  .footer {
+    margin-top: 20px;
+    text-align: center;
+    color: #777777;
+  }
+  .search-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .search-form .form-control {
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 16px;
+    width: 300px;
+    box-shadow: none;
+  }
+  
+  .search-form .form-control:focus {
+    border-color: #007bff;
+    box-shadow: none;
+    
+  }
+  
+  .search-btn {
+    background-color: #007bff;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: transparent;
+  }
+  
+  .search-btn:hover {
+    background-color: #0056b3;
+  }
+/* Add these styles to your Home.css file */
+/* Home.css */
+
+.excitement-text {
+  /* Add styling to the excitement-text section */
+  text-align: left;
+  margin-top: 2px;
+  background-color: transparent;
+
+}
+
+.excitement-text-line {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333;
+  margin: 1;
+  background-color: transparent;
+
+}
+
+/* Add more CSS styling for other sections as needed */
+
+    
+  
+.banner-section {
+	background-image: url("./banner.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	height: 350px;
+	position: relative;
+	width: 100%;
+}
+.banner-heading {
+	font-size: 40px;
+	color: white;
+	padding-top: 70px
+}
+.banner-para {
+	font-size: 15px;
+	color: #fff;
+	padding-top: 10px;
+}
+
+.search-sect {
+	margin-top: 40px;
+	width: 25%;
+	float: left;
+	position: relative;
+}
+.search-textbox {
+	height: 40px;
+	width: 100%;
+	padding-left: 10px;
+	border-top: none;
+	border-bottom: none;
+	border-color: #d9d9d9;
+	border-right: none;
+	border-width: 1px;
+}
+.search-button {
+	width: 100%;
+	height: 40px;
+	background-color: #e34216;
+	border: none;
+	color: white;
+}
+.search-sect .icons {
+	position: absolute;
+	top: 12px;
+	right: 10px}
+  
+  .custom-card {
+    border: 1px solid #ddd;
+    margin: 5px;
+    text-align: left;
+    font-weight: bold;
+  
+  }
+  .custom-card:hover {
+    background-color: rgba(50, 47, 47, 0.729); /* Change background color on hover */
+  }
+  .dark-header {
+    background-color: #222328;
+    color: white;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    margin: 0 10px;
+    padding: 5px 15px;
+  }
+  
+  .pagination button.active {
+    background-color: #007bff;
+    color: white;
+  }
+  
+    .page-number {
+      cursor: pointer;
+      margin: 0 10px;
+      color: #333;
+    }
+    
+    .page-number.active {
+      font-weight: bold;
+      color: #007bff;
+    }

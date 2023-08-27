@@ -1,0 +1,97 @@
+/* App.css */
+
+/* Header Styles */
+.header {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.navbar {
+  background-color: #08050a;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: #ffc107;
+}
+
+.nav-link.active {
+  color: #ffc107 !important;
+}
+
+.padded-link {
+  padding-right: 40px;
+}
+
+.Navbar.Brand {
+  padding-left: 20px;
+}
+
+.nav-link-white {
+  color: white;
+}
+
+/* Footer Styles */
+.footer-list {
+  list-style: none;
+  line-height: 1 ; /* Adjust line height for better readability */
+  padding-left: 0;
+}
+
+.footer-background {
+  background-color: #222328;
+  padding: 60px 0 80px; /* Combine padding properties */
+  color: rgba(255, 255, 255, 0.86);
+}
+
+.get-in-touch {
+  list-style: none;
+  line-height: 1.5; /* Adjust line height for better readability */
+  padding-top: 20px;
+}
+
+.get-in-touch img {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  border-radius: 0;
+  float: left;
+}
+
+.get-in-touch i {
+  float: left;
+  color: #eb372a;
+  font-size: 16px;
+  line-height: 15px;
+  padding-left: 0;
+}
+
+/* Add other styles before this */
+.footer-section {
+  display: flex;
+  justify-content: space-between;
+  color: rgba(255, 255, 255, 0.86);
+}
+
+.footer-column {
+  list-style: none;
+  line-height: 1 ; /* Adjust line height for better readability */
+  padding-right: 0;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+   }
+
+.get-in-touch {
+  list-style: none;
+  line-height: 1 ; /* Adjust line height for better readability */
+  padding-left: 0;
+}
+
+/* Add any other styles you need */
+
