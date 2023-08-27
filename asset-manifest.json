@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Job-finder/static/css/main.c4c70b7c.css",
+    "main.js": "/Job-finder/static/js/main.37c79409.js",
+    "static/js/787.ca94ce18.chunk.js": "/Job-finder/static/js/787.ca94ce18.chunk.js",
+    "static/media/banner.jpg": "/Job-finder/static/media/banner.82cb2a81f60e89dad3a6.jpg",
+    "static/media/success-services-hero.png": "/Job-finder/static/media/success-services-hero.b35683f1e6183a0fb72b.png",
+    "index.html": "/Job-finder/index.html",
+    "main.c4c70b7c.css.map": "/Job-finder/static/css/main.c4c70b7c.css.map",
+    "main.37c79409.js.map": "/Job-finder/static/js/main.37c79409.js.map",
+    "787.ca94ce18.chunk.js.map": "/Job-finder/static/js/787.ca94ce18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c70b7c.css",
+    "static/js/main.37c79409.js"
+  ]
+}
